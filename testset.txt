@@ -1,0 +1,18 @@
+NPH/WHO PRP/at NPH/me VOB/WHAT NPH/me ./. 
+NPH/WHO EXT/were VOB/WHAT PRP/by NPH/WHY ./. 
+NPH/The PRP/of NPH/WHO WPS/who NPH/WHAT ./. 
+NPH/WHO POS/'re VOB/WHAT PRP/about VOB/going TO/to NPH/a DT/this NPH/WHEN ./. 
+NPH/WHO EXT/is VOB/WHAT PRP/by DT/another NPH/company ./. 
+NPH/WHO HV/WHAT NPH/doubts PRP/about VOB/inviting NPH/him ./. 
+NPH/WHO EXT/WHAT NPH/that EX/there EXT/WHY NPH/WHEN ./. 
+NPH/WHO EXT/WHAT RB/apparently NPH/an PRP/on NPH/dogs ./. 
+WDT/Which NPH/dog DOD/did NPH/WHO ./? 
+EX/There EXT/WHO PRP/in NPH/WHERE ./. 
+NPH/WHO QL/more RB/elegantly NPH/than ./. 
+NPH/WHO EXT/WHAT QL/so NPH/big HVZ/has TO/to EXT/be VOB/carried PRP/on NPH/the RB/back PRP/of NPH/a ./. 
+NPH/WHO WRB/WHEN NPH/we TO/to NPH/Paris EXT/WHAT RB/WHERE ./. 
+NPH/WHO TO/to NPH/WHERE CC/and NPH/WHAT PRP/of NPH/milk ./. 
+EX/There EXT/WHAT CC/neither NPH/WHO CC/nor NPH/a RB/here ./. 
+NPH/WHY VOB/WHAT NPH/WHO ./. 
+TO/To VOB/WHAT NPH/that EXT/is PRP/in NPH/its EXT/would ./. 
+VOB/Using NPH/WHY ,/, NPH/WHO VOB/WHAT NPH/a PRP/of NPH/great ./. 
