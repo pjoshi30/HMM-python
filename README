@@ -1,0 +1,18 @@
+/* HMM approach to classify a sentence into WHO, WHAT, WHY, WHERE, WHEN */
+
+Required packages:
+
+1. Python 2.6+
+2. ghmm (http://ghmm.sourceforge.net/) : General HMM python library
+3. Natural Language Toolkit (http://www.nltk.org/)
+4. NumPy : Numerical python library
+
+Running the code:
+
+1. A testset needs to be prepared. Execute python nlp2.py testset_raw.txt testset_tagged.txt. This will generate the chunks.
+2. Execute the command: python HMMTrainer.py trainset.py testset.py
+The above command uses testset.py which is necessary to remove elements that do no contribute to the sequences WHO, WHAT, WHERE etc. Right now it is a raw proof of concept implementation.
+3. The resulting output will display decoded sequence and the expected output. 
+4. Compare the decoded sequence and the expected output to analyze the result
+
+			****************
